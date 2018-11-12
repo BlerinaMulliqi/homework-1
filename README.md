@@ -86,48 +86,47 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? www.snap.org
+* What is the port number? 443
+* What is the path? /commitments
+* What are the query parameters? date=2017-12-09
+* What is the fragment? None
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost
+* What is the port number? 4000
+* What is the path? admin
+* What are the query parameters? None
+* What is the fragment? None
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? www.lehman.edu
+* What is the port number? 80
+* What is the path? /academics/mathematics-computer-science/index.php
+* What are the query parameters? None
+* What is the fragment? None
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? en.wikipedia.org
+* What is the port number? 443
+* What is the path? /wiki/Greek_alphabet
+* What are the query parameters? None
+* What is the fragment? Glyph_variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? Stands for secure.
 
-Why is HTTPS better than HTTP?
-
-Should all web pages use HTTPS?
+Why is HTTPS better than HTTP? HTTPS indicates that the domain has been protected by Secure Sockets Layer (SSL). This means that the site is considered more secure.
+Should all web pages use HTTPS? Yes, HTTPS should always be used regardless of content.
 
 
 ## Webpages
@@ -140,7 +139,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+A web page is an HTML document containing information and other media.
 
 
 ### 11. Webpage I like
@@ -156,22 +155,22 @@ What's one webpage you like? Why?
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
-
+Mozilla developer and w3schools
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag? We are using HTML 5, and a DOCTYPOE tag is a declaration of the type of document we are going to write so browsers know how to interpret it.
 
-What is XML?
+What is XML?   XML is a markup language designed for storing and transporting data
 
-What is XHTML?
+What is XHTML? XHTML is a combination of HTML and XML
 
 
 ### 15. HTML
 
-Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program? Plain text
 
-Are HTML files interpreted or executed?
+Are HTML files interpreted or executed? HTML files are interpreted 
 
 
 ### 16. Browser versioning
@@ -181,12 +180,12 @@ Which versions of Microsoft Internet Explorer support the `<nav>` tag?
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML?
+What is one tool that can tell you if you have written valid HTML? https://validator.w3.org/
 
 
 ### 18. Accessibility
 
-What does "Accessibility" mean in the context of web development?
+What does "Accessibility" mean in the context of web development? The accessibility of a website to all people, regardless of disability type or severity of impairment.
 
 What types of people does accessibility concern?
 
@@ -195,9 +194,9 @@ What is one tool you can use to verify the accessibility of your websites?
 
 ### 19. head / body
 
-What is the `<head>` tag for?
+What is the `<head>` tag for? The <head> element can include a title for the document, scripts, styles, meta information, and more.
 
-What is the `<body>` tag for?
+What is the `<body>` tag for? The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
 
 
 ### 20. Head…
