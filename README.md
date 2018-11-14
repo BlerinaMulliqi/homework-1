@@ -175,7 +175,7 @@ Are HTML files interpreted or executed? HTML files are interpreted
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Which versions of Microsoft Internet Explorer support the `<nav>` tag? Version 9 and beyond
 
 
 ### 17. HTML Validity
@@ -187,9 +187,9 @@ What is one tool that can tell you if you have written valid HTML? https://valid
 
 What does "Accessibility" mean in the context of web development? The accessibility of a website to all people, regardless of disability type or severity of impairment.
 
-What types of people does accessibility concern?
+What types of people does accessibility concern? People with disabilities 
 
-What is one tool you can use to verify the accessibility of your websites?
+What is one tool you can use to verify the accessibility of your websites? https://www.w3.org/WAI/ER/tools/
 
 
 ### 19. head / body
@@ -211,19 +211,19 @@ What are all the tags associated with [HTML tables](https://developer.mozilla.or
 
 ### 22. Non-closing tags
 
-Which tags don't have a closing pair (e.g. `<br>`)?
+Which tags don't have a closing pair (e.g. `<br>`)? Tags that don't have a closing pair: </img>, </hr>, </meta> etc
 
 
 ### 23. Links
 
-How do you make a link open in a new window?
+How do you make a link open in a new window? target="_blank"
 
 
 ### 24. IFRAME
 
-What is an IFRAME?
+What is an IFRAME? The <iframe> tag specifies an inline frame
 
-What are IFRAMEs commonly used for?
+What are IFRAMEs commonly used for? An inline frame is used to embed another document within the current HTML document.
 
 
 ## Writing Code
