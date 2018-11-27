@@ -211,7 +211,7 @@ What are all the tags associated with [HTML tables](https://developer.mozilla.or
 
 ### 22. Non-closing tags
 
-Which tags don't have a closing pair (e.g. `<br>`)? Tags that don't have a closing pair: </img>, </hr>, </meta> etc
+Which tags don't have a closing pair (e.g. `<br>`)? Tags that don't have a closing pair: <br>, <hr>, <img>, <area>, <base>, <input>, <link>, <source>, <col>
 
 
 ### 23. Links
