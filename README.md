@@ -201,7 +201,7 @@ What is the `<body>` tag for? The <body> element contains all the contents of an
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
+What's the difference between `<head>`, `<header>`, and heading tags? The element is a container for all the head elements which do not appear in the web page. The header is for containing things that usually appear first on the top of the page, like the tittle, and the heading tags are for setting the different types of headings or tittles.
 
 
 ### 21. Tables
