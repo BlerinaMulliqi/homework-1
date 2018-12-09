@@ -147,7 +147,7 @@ A web page is an HTML document containing information and other media.
 What's one webpage you like? Why? I like LinkedIn because it allows users to create profiles and connections to others with similar careers.
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+What's one webpage you don't like? Why? I don't like Facebook, apparently is a waste of time.
 
 
 ### 13. Resources
