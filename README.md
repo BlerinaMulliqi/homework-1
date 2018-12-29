@@ -258,5 +258,6 @@ Class is going… too slow / just right / too fast. Just right
 ### 29. Jobs
 
 Add a link to one web development job based in NYC:
-
-What do you still need to learn to meet the requirements?
+https://www.linkedin.com/jobs/search/?currentJobId=998943015&keywords=web%20developer&location=United%20States&locationId=us%3A0
+What do you still need to learn to meet the requirements? ASP.NET and C#, 
+MS SQL Server Experience
